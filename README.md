@@ -1,3 +1,3 @@
 # Calculator
 
-A simple application includes buttons.
+A simple application that includes buttons.
